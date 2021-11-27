@@ -19,7 +19,7 @@ public class matrisTranspoze {
         }//for i sonu
         System.out.printf("B matrisi...:\n");
         for (i =0; i<4;++i){
-            for (j =0; j<4;++j){
+            for (j =0; j<3;++j){
                 System.out.printf("%d",B[i][j]);
             }//for j sonu
             System.out.println();
